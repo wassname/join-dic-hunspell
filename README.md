@@ -25,10 +25,4 @@ EXAMPLE: python join_dicts.py -d en_GB_geo.dic en_NZ_geo_oil_maori.dic
 
 
 
-VERSION
 
-
-
-1
-
-Copyright (c) Michael Clark
