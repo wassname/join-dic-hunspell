@@ -21,7 +21,7 @@ ARGS:
 
 
 
-EXAMPLE: python join_dicts.py -d en_GB_geo.dic en_NZ_geo_oil_maori.dic
+EXAMPLE: python join_dicts.py -d wordlist1.dic wordlist2.dic
 
 
 
