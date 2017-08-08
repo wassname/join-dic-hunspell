@@ -21,3 +21,8 @@ $ join_dicts.py [options] <file/directory>...
 #### EXAMPLE
 ``` bash
 $ python join_dicts.py -d wordlist1.dic wordlist2.dic
+```
+
+#### LICENSE
+
+This uses the same license as hunspell: GNU Lesser or General Public License or Mozilla Public License.
