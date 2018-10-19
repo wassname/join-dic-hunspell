@@ -15,12 +15,12 @@ $ join_dicts.py [options] <file/directory>...
 
 #### ARGS
 ``` bash
--d <dictionary1> <dictionary2> ... # Dictionaries to combine
+<dictionary1> <dictionary2> ... -o out.dic # Dictionaries to combine then output dic
 ```
 
 #### EXAMPLE
 ``` bash
-$ python join_dicts.py -d wordlist1.dic wordlist2.dic
+$ python join_dicts.py wordlist1.dic wordlist2.dic -o out.dic
 ```
 
 #### LICENSE
